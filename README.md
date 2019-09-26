@@ -1,7 +1,3 @@
-notification_utils
-==================
+# This repo has moved to OpenDev
 
-Utilities for dealing with OpenStack Notifications
-
-Includes datetime <-> Decimal conversion and Json marshalling handlers
-to name a few (for now)
+It can now be found at [https://opendev.org/x/stacktach-notification-utils](https://opendev.org/x/stacktach-notification-utils)
